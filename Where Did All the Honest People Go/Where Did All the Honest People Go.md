@@ -1,9 +1,8 @@
 ---
 name: "Where Did All the Honest People Go?"
 type: "essay"
-date: 20260610
-synopsis: "A humorous but serious look at how personal accountability has faded from everyday life, from broken plans and ignored messages to lies dressed up as misunderstandings. The essay argues that honesty does not require perfection, but it does require the basic decency to keep your word, admit when you are wrong, and make things right when you fall short.
-"
+date: 20260611
+synopsis: "A humorous but serious look at how personal accountability has faded from everyday life, from broken plans and ignored messages to lies dressed up as misunderstandings. The essay argues that honesty does not require perfection, but it does require the basic decency to keep your word, admit when you are wrong, and make things right when you fall short."
 word_count: 3120
 copyright: "Copyright ©2026 Robert J. Lammert, All Rights Reserved"
 ---
