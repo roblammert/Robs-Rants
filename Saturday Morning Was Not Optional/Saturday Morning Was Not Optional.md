@@ -2,7 +2,7 @@
 name: "Saturday Morning Was Not Optional"
 type: "essay"
 date: 20260613
-synopsis: "A humorous but serious look at how personal accountability has faded from everyday life, from broken plans and ignored messages to lies dressed up as misunderstandings. The essay argues that honesty does not require perfection, but it does require the basic decency to keep your word, admit when you are wrong, and make things right when you fall short."
+synopsis: "A nostalgic reminder that a little waiting, a little friction, and a little shared inconvenience once taught us how to be human."
 word_count: 2252
 copyright: "Copyright ©2026 Robert J. Lammert, All Rights Reserved"
 ---
